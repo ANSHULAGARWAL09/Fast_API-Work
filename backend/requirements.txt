@@ -1,2 +1,14 @@
 fastapi
 uvicorn
+
+#For Databases
+
+sqlalchemy
+psycopg2 
+
+# adapter required by sqlalchemy for connecting sqlalchemy and postgresql (imp)
+
+
+#for env var
+
+python-dotenv
